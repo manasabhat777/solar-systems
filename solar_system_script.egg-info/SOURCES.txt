@@ -1,0 +1,17 @@
+MANIFEST.in
+README.txt
+setup.py
+config_samples/system.yaml
+config_samples/system1.yaml
+my_solar_system/__init__.py
+my_solar_system/alignment.py
+my_solar_system/planet.py
+my_solar_system/solar_system.py
+plugin_samples/bar.py
+plugin_samples/baz.py
+plugin_samples/foo.py
+solar_system_script.egg-info/PKG-INFO
+solar_system_script.egg-info/SOURCES.txt
+solar_system_script.egg-info/dependency_links.txt
+solar_system_script.egg-info/requires.txt
+solar_system_script.egg-info/top_level.txt

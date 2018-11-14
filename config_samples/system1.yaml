@@ -1,0 +1,13 @@
+system:
+    - name: planet-D
+      theta: 6 
+      radius: 1
+      period: 20 
+    - name: planet-E
+      theta: 3.12 
+      radius: 5
+      period: 40
+    - name: planet-F
+      theta: 3.14 
+      radius: 10
+      period: 20
